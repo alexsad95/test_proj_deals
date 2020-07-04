@@ -1,7 +1,7 @@
 
 # test_proj_deals
 
-Тестовое задание по Django. [ТЗ](https://github.com/alexsad95/test_projects/tree/master/test_proj_deals/files/ТЗ.pdf)
+Тестовое задание по Django. [ТЗ](https://github.com/alexsad95/test_proj_deals/blob/master/files/ТЗ.png)
 Как запустить приложение.
  - Склонировать репозиторий, перейти в папку с приложением
  - Сделать сборку через docker-compose build
@@ -18,9 +18,9 @@ $ docker-compose run web sh init_db.sh
 
 Отправка POST запроса с файлом csv для загрузки данных в бд, можно это сделать с помощью Postman: 
 
-![](https://github.com/alexsad95/test_projects/tree/master/test_proj_deals/files/POST.png)
+![](https://github.com/alexsad95/test_proj_deals/blob/master/files/POST.png)
 
 После можно проверить и зайти на `localhost:8000/api/deals`:
 
-![](https://github.com/alexsad95/test_projects/tree/master/test_proj_deals/files/GET.png)
+![](https://github.com/alexsad95/test_proj_deals/blob/master/files/GET.png)
 

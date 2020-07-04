@@ -18,9 +18,9 @@ $ docker-compose run web sh init_db.sh
 
 Отправка POST запроса с файлом csv для загрузки данных в бд, можно это сделать с помощью Postman: 
 
-![](https://github.com/alexsad95/test_projects/tree/master/test_proj_deals/files/POST.png "POST Запрос Postman-ом")
+![](https://github.com/alexsad95/test_projects/tree/master/test_proj_deals/files/POST.png)
 
 После можно проверить и зайти на `localhost:8000/api/deals`:
 
-![](https://github.com/alexsad95/test_projects/tree/master/test_proj_deals/files/GET.png "Страница с выводом Deals")
+![](https://github.com/alexsad95/test_projects/tree/master/test_proj_deals/files/GET.png)
 

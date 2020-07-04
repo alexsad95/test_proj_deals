@@ -1,7 +1,7 @@
 
 # test_proj_deals
 
-Тестовое задание по Django. [ТЗ](https://github.com/alexsad95/test_proj_deals/blob/master/files/ТЗ.png)
+Тестовое задание по Django. [ТЗ](https://github.com/alexsad95/test_proj_deals/blob/master/files/ТЗ.pdf)
 Как запустить приложение.
  - Склонировать репозиторий, перейти в папку с приложением
  - Сделать сборку через docker-compose build
